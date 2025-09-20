@@ -49,4 +49,4 @@
 - Mobile: Sidebar transformada em barra de navegação superior
 
 
-<img src="https://imgur.com/a/Ox4FBuq.png" alt="Desktop Screenshot" width="600"/>
+<img src="https://i.imgur.com/WNTRBtP.png" alt="Desktop Screenshot" width="600"/>
