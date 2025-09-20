@@ -50,3 +50,4 @@
 
 
 <img src="https://imgur.com/a/Ox4FBuq.png" alt="Desktop Screenshot" width="600"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="WNTRBtP"><a href="https://imgur.com/WNTRBtP">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
