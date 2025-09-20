@@ -47,3 +47,6 @@
 - Tablet: Sidebar contraída mostrando apenas ícones
 
 - Mobile: Sidebar transformada em barra de navegação superior
+
+
+<img src="https://imgur.com/a/Ox4FBuq" alt="Desktop Screenshot" width="600"/>
