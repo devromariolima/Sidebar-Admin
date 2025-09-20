@@ -219,7 +219,6 @@ header p{
     opacity: 0.8;
 }
 
-/* Apple-style liquid effects */
 
 .menu li::after{
     content: '';
